@@ -8,7 +8,7 @@ Xeno Terminal - ZEPHYX is an advanced, feature-rich terminal designed for Window
   Switch between `cmd` and `PowerShell` effortlessly with commands like `switch cmd` or `switch powershell`.
   
 - **⚡ Execute System Commands**  
-  You can execute every command and more, in this all in one terminal.
+  You can execute every command and more, in this all-in-one terminal.
 
 - **📜 Command History**  
   Access your previously executed commands with the `history` command and search through them using `search <term>`.
@@ -18,6 +18,9 @@ Xeno Terminal - ZEPHYX is an advanced, feature-rich terminal designed for Window
 
 - **🎨 Customizable CLI Prompt**  
   Tailor your terminal's prompt to your liking, with dynamic elements like the current directory and selected shell displayed in a user-friendly format.
+
+- **🤖 AI-Powered Auto-Completion**  
+  Enable intelligent command recommendations with `enable cmd-rec` and disable it with `disable cmd-rec` to enhance your typing speed and efficiency.
 
 ## 🖥️ Requirements
 - Windows 10 or later
